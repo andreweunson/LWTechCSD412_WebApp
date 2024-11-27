@@ -1,0 +1,41 @@
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.AssemblyInfoInputs.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.AssemblyInfo.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.csproj.CoreCompileInputs.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.RazorAssemblyInfo.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.RazorAssemblyInfo.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.TagHelpers.input.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.TagHelpers.output.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.RazorCoreGenerate.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Razor\Views\Login\Loginpage.cshtml.g.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.RazorTargetAssemblyInfo.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.RazorTargetAssemblyInfo.cs
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.dll
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.pdb
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\Final project.exe
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\Final project.deps.json
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\Final project.runtimeconfig.json
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\Final project.runtimeconfig.dev.json
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\Final project.dll
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\Final project.pdb
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\Final project.Views.dll
+C:\Users\hds\Desktop\final\Final project\bin\Debug\netcoreapp3.1\Final project.Views.pdb
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.Views.pdb
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\staticwebassets\Final project.StaticWebAssets.Manifest.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\staticwebassets\Final project.StaticWebAssets.Pack.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Final project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Final project.props
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Final project.props
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Final project.props
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final project.genruntimeconfig.cache
+C:\Users\hds\Desktop\final\Final project\obj\Debug\netcoreapp3.1\Final pr.C22A6D1E.Up2Date

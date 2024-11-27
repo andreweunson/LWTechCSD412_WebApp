@@ -1,0 +1,106 @@
+﻿@page
+@model Final_project.Views.Login.LoginpageModel
+@{
+    Layout = null; // Or specify a layout if needed
+}
+
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="en">
+<head>
+    <!-- Site Title -->
+    <title>Login</title>
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:300,400,700,400italic%7CCormorant+Garamond:400,700,400italic" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/fonts.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <!--[if lt IE 10]>
+    <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;">
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/">
+            <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+        </a>
+    </div>
+    <script src="js/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!-- Page Loader -->
+    <div class="page-loader" id="preloader">
+        <div id="loading-center">
+            <div id="loading-center-absolute">
+                <div class="object" id="first_object"></div>
+                <div class="object" id="second_object"></div>
+                <div class="object" id="third_object"></div>
+            </div>
+        </div>
+    </div>
+    <!-- Page -->
+    <div class="page">
+        <!-- Page content -->
+        <div class="section section-single bg-image bg-image-dark" style="background-image: url(@Url.Content("~/images/bg-image-2-1920x1080.jpg"));">
+            <div class="section-single__inner">
+                <div class="section-single__header">
+                    <div class="container">
+                        <!-- Brand -->
+                        <a class="brand" href="index.html">
+                            <div class="brand__name">
+                                <img class="brand__logo-dark" src="@Url.Content("~/images/logo-default-85x36.png")" alt="" width="85" height="36" srcset="@Url.Content("~/images/logo-default-170x72.png") 2x" />
+                                <img class="brand__logo-light" src="@Url.Content("~/images/logo-inverse-85x36.png")" alt="" width="85" height="36" srcset="@Url.Content("~/images/logo-inverse-170x72.png") 2x" />
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="section-single__main">
+                    <div class="container">
+                        <div class="section-single__content">
+                            <h3>Sign In</h3>
+                            <div class="group-xxs buttons-group buttons-group-block">
+                                <a class="button button-facebook button-icon button-icon-left" href="#"><span class="icon fa fa-facebook"></span>Facebook</a>
+                            
+                            </div>
+                            <div class="text-decoration-lines">
+                                <span class="text-decoration-lines__content">or</span>
+                            </div>
+                            <!-- RD Mailform -->
+                            <form asp-action="Login" method="post" class="rd-mailform">
+                                <div class="form-wrap">
+                                    <label class="form-label-outside" for="login-email">E-mail</label>
+                                    <input class="form-input" id="login-email" type="email" name="email" required />
+                                </div>
+                                <div class="form-wrap">
+                                    <label class="form-label-outside" for="login-password">Password</label>
+                                    <input class="form-input" id="login-password" type="password" name="password" required />
+                                </div>
+                                <div class="form-wrap form-button">
+                                    <button class="button button-block button-default" type="submit">Enter</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="section-single__footer">
+                    <div class="container">
+                        <!-- Rights -->
+                        <p class="rights">
+                            <span>&copy;&nbsp; </span><span class="copyright-year">@DateTime.Now.Year</span><span> All Rights Reserved </span><br class="d-sm-none" />
+                            <a href="privacy-policy.html">Terms of Use </a><span>and </span><span>&nbsp;</span>
+                            <a href="privacy-policy.html">Privacy Policy</a>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Global Mailform Output -->
+    <div class="snackbars" id="form-output-global"></div>
+    <!-- Javascript -->
+    <script src="@Url.Content("~/js/core.min.js")"></script>
+    <script src="@Url.Content("~/js/script.js")"></script>
+</body>
+</html>
