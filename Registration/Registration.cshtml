@@ -1,0 +1,102 @@
+﻿@page
+@model Final_project.Views.Registration.RegistrationModel
+@{
+    Layout = null; // Or specify a layout if needed
+}
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="en">
+<head>
+    <!-- Site Title -->
+    <title>@ViewBag.Title</title>
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:300,400,700,400italic%7CCormorant+Garamond:400,700,400italic" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/fonts.css" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <!-- Page Loader -->
+    <div class="page-loader" id="preloader">
+        <div id="loading-center">
+            <div id="loading-center-absolute">
+                <div class="object" id="first_object"></div>
+                <div class="object" id="second_object"></div>
+                <div class="object" id="third_object"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page -->
+    <div class="page">
+        <!-- Page content -->
+        <div class="section section-single bg-image bg-image-dark" style="background-image: url('images/bg-image-2-1920x1080.jpg');">
+            <div class="section-single__inner">
+                <div class="section-single__header">
+                    <div class="container">
+                        <!-- Brand -->
+                        <a class="brand" href="@Url.Action("Index", "Home")">
+                            <div class="brand__name">
+                                <img class="brand__logo-dark" src="images/logo-default-85x36.png" alt="" width="85" height="36" />
+                                <img class="brand__logo-light" src="images/logo-inverse-85x36.png" alt="" width="85" height="36" />
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="section-single__main">
+                    <div class="container">
+                        <div class="section-single__content">
+                            <h3>Registration</h3>
+                            <!-- Razor Form -->
+                            @using (Html.BeginForm("Register", "Account", FormMethod.Post))
+                            {
+                                <div class="form-wrap">
+                                    <label class="form-label-outside" for="Username">Username</label>
+                                    @Html.TextBoxFor(m => m.Username, new { @class = "form-input", id = "register-username", data_constraints = "@Required" })
+                                    @Html.ValidationMessageFor(m => m.Username)
+                                </div>
+                                <div class="form-wrap">
+                                    <label class="form-label-outside" for="Email">E-mail</label>
+                                    @Html.TextBoxFor(m => m.Email, new { @class = "form-input", id = "register-email", data_constraints = "@Email @Required", type = "email" })
+                                    @Html.ValidationMessageFor(m => m.Email)
+                                </div>
+                                <div class="form-wrap">
+                                    <label class="form-label-outside" for="Password">Password</label>
+                                    @Html.PasswordFor(m => m.Password, new { @class = "form-input", id = "register-password", data_constraints = "@Required" })
+                                    @Html.ValidationMessageFor(m => m.Password)
+                                </div>
+                                <div class="form-wrap">
+                                    <label class="form-label-outside" for="ConfirmPassword">Confirm Password</label>
+                                    @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-input", id = "register-password-confirm", data_constraints = "@Required" })
+                                    @Html.ValidationMessageFor(m => m.ConfirmPassword)
+                                </div>
+                                <div class="form-wrap form-button">
+                                    <button class="button button-block button-default" type="submit">Register</button>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section-single__footer">
+                    <div class="container">
+                        <!-- Rights -->
+                        <p class="rights">
+                            <span>&copy; </span><span class="copyright-year">@DateTime.Now.Year</span><span> All Rights Reserved</span><br class="d-sm-none" />
+                            <a href="@Url.Action("PrivacyPolicy", "Home")">Terms of Use</a> and <a href="@Url.Action("PrivacyPolicy", "Home")">Privacy Policy</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Global Mailform Output -->
+    <div class="snackbars" id="form-output-global"></div>
+</body>
+</html>
