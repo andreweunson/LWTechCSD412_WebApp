@@ -1,0 +1,29 @@
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/bin/Debug/net7.0/appsettings.Development.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/bin/Debug/net7.0/appsettings.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/bin/Debug/net7.0/Final project.staticwebassets.runtime.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/bin/Debug/net7.0/Final project
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/bin/Debug/net7.0/Final project.deps.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/bin/Debug/net7.0/Final project.runtimeconfig.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/bin/Debug/net7.0/Final project.dll
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/bin/Debug/net7.0/Final project.pdb
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.AssemblyInfoInputs.cache
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.AssemblyInfo.cs
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.csproj.CoreCompileInputs.cache
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.MvcApplicationPartsAssemblyInfo.cache
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.RazorAssemblyInfo.cache
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.RazorAssemblyInfo.cs
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.sourcelink.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/staticwebassets.build.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/staticwebassets.development.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/staticwebassets/msbuild.Final project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/staticwebassets/msbuild.build.Final project.props
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Final project.props
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Final project.props
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/scopedcss/bundle/Final project.styles.css
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.dll
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/refint/Final project.dll
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.pdb
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/Final project.genruntimeconfig.cache
+/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/Debug/net7.0/ref/Final project.dll
