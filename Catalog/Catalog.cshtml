@@ -1,0 +1,58 @@
+﻿@page
+@model Final_project.Views.Catalog.CatalogModel
+@{
+}
+<!-- Shop catalog-->
+<div>
+    <p><a asp-controller="Account" asp-action="Login">Login</a></p>
+    <p><a asp-controller="Account" asp-action="Register">Register</a></p>
+    <p><a asp-controller="Home" asp-action="Index">Home</a></p>
+    <p>Welcome valued customer!</p>
+</div>
+
+<section>
+    @* Product Minimal *@
+    <article>
+        <a class="product-minimal__media" asp-controller="Product" asp-action="Details" asp-route-id="1">
+            <p>Hollister Easy Plaid<br> Shirt</p>
+        </a>
+        <div>
+            <p>$49.00 for one</p>
+            <p>$69.00 for two</p>
+        </div>
+        <div><a asp-controller="Product" asp-action="Details" asp-route-id="1">Buy Now</a></div>
+    </article>
+
+    <article>
+        <a class="product-minimal__media" asp-controller="Product" asp-action="Details" asp-route-id="2">
+            <p>Anne Klein Women's SVTT Two-Tone Bracelet Watch</p>
+        </a>
+        <div>
+            <p>$49.00 for one</p>
+            <p>$69.00 for two</p>
+        </div>
+        <div><a asp-controller="Product" asp-action="Details" asp-route-id="2">Buy Now</a></div>
+    </article>
+
+    <article>
+        <a class="product-minimal__media" asp-controller="Product" asp-action="Details" asp-route-id="3">
+            <p>Zara Lapel<br> Jacket</p>
+        </a>
+        <div>
+            <p>$49.00 for one</p>
+            <p>$69.00 for two</p>
+        </div>
+        <div><a asp-controller="Product" asp-action="Details" asp-route-id="3">Buy Now</a></div>
+    </article>
+
+    <article>
+        <a class="product-minimal__media" asp-controller="Product" asp-action="Details" asp-route-id="4">
+            <p>Zara V-Neck<br> Sweater</p>
+        </a>
+        <div>
+            <p>$49.00 for one</p>
+            <p>$69.00 for two</p>
+        </div>
+        <div><a asp-controller="Product" asp-action="Details" asp-route-id="4">Buy Now</a></div>
+    </article>
+</section>
