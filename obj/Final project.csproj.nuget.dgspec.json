@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/suraj/Desktop/LWTechCSD412_WebApp-1/Final project.csproj": {}
+    "/Users/suraj/Desktop/LWTechCSD412_WebApp-2/Final project.csproj": {}
   },
   "projects": {
-    "/Users/suraj/Desktop/LWTechCSD412_WebApp-1/Final project.csproj": {
+    "/Users/suraj/Desktop/LWTechCSD412_WebApp-2/Final project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/suraj/Desktop/LWTechCSD412_WebApp-1/Final project.csproj",
+        "projectUniqueName": "/Users/suraj/Desktop/LWTechCSD412_WebApp-2/Final project.csproj",
         "projectName": "Final project",
-        "projectPath": "/Users/suraj/Desktop/LWTechCSD412_WebApp-1/Final project.csproj",
+        "projectPath": "/Users/suraj/Desktop/LWTechCSD412_WebApp-2/Final project.csproj",
         "packagesPath": "/Users/suraj/.nuget/packages/",
-        "outputPath": "/Users/suraj/Desktop/LWTechCSD412_WebApp-1/obj/",
+        "outputPath": "/Users/suraj/Desktop/LWTechCSD412_WebApp-2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/suraj/.nuget/NuGet/NuGet.Config"
