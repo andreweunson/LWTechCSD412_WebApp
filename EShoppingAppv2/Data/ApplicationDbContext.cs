@@ -15,5 +15,6 @@ namespace EShoppingAppv2.Data
         }
         public DbSet<EShoppingAppv2.Models.Product> Product { get; set; }
         public DbSet<EShoppingAppv2.Models.User> User { get; set; }
+        public DbSet<OrderDetail> OrderDetail { get; set; }
     }
 }

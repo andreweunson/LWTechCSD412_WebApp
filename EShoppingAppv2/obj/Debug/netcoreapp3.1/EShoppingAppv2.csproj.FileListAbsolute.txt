@@ -204,3 +204,4 @@ C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\EShoppingAppv2.sourcelink.json

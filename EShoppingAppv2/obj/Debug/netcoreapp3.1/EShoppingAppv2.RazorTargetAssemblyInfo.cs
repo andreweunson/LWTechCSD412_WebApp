@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("EShoppingAppv2")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ceebe21e91296e6e33b09cf5129c15ebf6f0ae3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EShoppingAppv2.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
