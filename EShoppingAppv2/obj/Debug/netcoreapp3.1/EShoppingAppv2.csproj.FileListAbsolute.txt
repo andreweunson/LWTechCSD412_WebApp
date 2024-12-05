@@ -175,8 +175,6 @@ C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\EShoppingAppv2.TagHelpers.output.cache
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\EShoppingAppv2.RazorCoreGenerate.cache
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
-C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
@@ -205,3 +203,4 @@ C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
 C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\EShoppingAppv2.sourcelink.json
+C:\Users\Andrew\source\repos\EShoppingAppv2\EShoppingAppv2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
