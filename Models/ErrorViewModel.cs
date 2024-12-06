@@ -1,6 +1,6 @@
 using System;
 
-namespace Final_project.Models
+namespace EShoppingAppv2.Models
 {
     public class ErrorViewModel
     {
